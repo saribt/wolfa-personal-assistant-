@@ -1,0 +1,7 @@
+{
+  "name": "wolfa ",
+  "description": "A horror-themed virtual assistant powered by Gemini Live API, featuring a malevolent entity that listens and responds from the void.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
